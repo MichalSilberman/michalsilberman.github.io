@@ -3,6 +3,8 @@
 .song {
   white-space: pre;
   background-color: pink;
+  font-size: 48px;
+  color: white;
 }
 
 @font-face {
