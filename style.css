@@ -19,5 +19,11 @@
 h1, h2 {
   color: pink;
   text-align: center;
-  font-size: 75px;
 }
+h1 {
+    font-size: 75px;
+}
+h2 {
+    font-size: 60px;
+}
+
