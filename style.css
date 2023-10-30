@@ -2,6 +2,7 @@
 
 .song {
   white-space: pre;
+  background-color: pink;
 }
 
 @font-face {
