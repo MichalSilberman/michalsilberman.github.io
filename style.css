@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@500&family=Rubik+Moonrocks&display=swap');
+
+.song {
+  white-space: pre;
+}
+
+@font-face {
+  font-family: 'Assistant', sans-serif;
+  font-family: 'Rubik Moonrocks', sans-serif;
+  font-style: normal;
+  src:  url('https://fonts.googleapis.com/css2?family=Assistant:wght@500&family=Rubik+Moonrocks&display=swap');
+}
