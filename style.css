@@ -3,6 +3,7 @@
 .song {
   white-space: pre;
   background-color: pink;
+  color: white;
 }
 
 @font-face {
@@ -14,5 +15,4 @@
 
 * {
    font-family: 'Rubik Moonrocks';
-  color: white;
 }
