@@ -3,7 +3,6 @@
 .song {
   white-space: pre;
   background-color: pink;
-  color: white;
 }
 
 @font-face {
@@ -18,6 +17,7 @@
 }
 
 h1, h2 {
+  color: pink;
   text-align: center; 
   font-size: 75px;
 }
