@@ -58,7 +58,3 @@ const createTable = () => {
 
 
 }
-
-const addRowToTable = () => {
-
-}
